@@ -1,0 +1,24 @@
+[
+    {
+        "respuesto_id": "4fcb1b5a-36b8-4c96-b1a5-48ed52a5669f",
+        "nombre": "filtro",
+        "marca": "ria",
+        "modelo_auto": "608",
+        "categoria": "frenos",
+        "precio": 66.0,
+        "stock": 2,
+        "fecha_ingreso": "2026-06-09T21:59:19.722030",
+        "fecha_modificado": "2026-06-09T21:59:19.722030"
+    },
+    {
+        "respuesto_id": "d6c83356-590b-4a4d-9b54-a26fc345e07c",
+        "nombre": "semieje",
+        "marca": "silvaflex",
+        "modelo_auto": "r21",
+        "categoria": "semieje",
+        "precio": 6666.0,
+        "stock": 2,
+        "fecha_ingreso": "2026-06-09T21:59:55.484063",
+        "fecha_modificado": "2026-06-09T21:59:55.484063"
+    }
+]
